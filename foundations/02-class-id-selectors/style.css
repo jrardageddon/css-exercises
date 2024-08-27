@@ -1,0 +1,16 @@
+.odd {
+    background-color: red;
+    font-family: 'Verdana', sans-serif;
+}
+#first-even {
+    color:blue;
+}
+
+#second-even {
+    background-color: rgba(70, 208, 43, 0.793);
+    font-weight: bold;
+}
+
+.big-font {
+    font-size: 24px;
+}
